@@ -12,7 +12,7 @@ Idea - we can easily change the weight of boxes, friction of the boxes, speed of
 
 ## Steps 
 
-1. After started the Issac-sim environment (by running isaac-sim.sh), open the usd file provided:
+1. After started the Issac-sim environment, open the usd file provided:
    You will see the forklift and boxes in the warehouse environment.
 ![alt_text](images/image1.png "open the usd file")
 
