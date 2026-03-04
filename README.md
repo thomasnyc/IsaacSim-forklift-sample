@@ -21,13 +21,15 @@ Idea - we can easily change the weight of boxes, friction of the boxes, speed of
 
 3. Adding the Robot Prism to the Velocity Controller.
 ![alt_text](images/image3.png "adding robot prism")
+
 Pick the forklift_b as the target and click "Select"
 ![alt_text](images/image4.png "select forklift_b")
+
 Click "OK" 
 ![alt_text](images/image5.png "confirm")
 
-4. Update the parameters to raise the forklift and accelerate the wheel
+4. Update the parameters to raise the forklift and accelerate the wheel. This is at the right hand side panel.
 ![alt_text](images/image6.png "update parameter")
 
-then click the run button at the left hand side panel . 
-![link to download the result mp4](images/forklift_w_block.mp4)
+5. Activate the simulation, click the "run" button at the left hand side panel . 
+![result](images/forklift_w_block_large.gif)
